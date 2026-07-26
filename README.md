@@ -27,14 +27,6 @@ The **PhonePe Business Analytics Dashboard** is an interactive Business Intellig
 
 ---
 
-# 📷 Dashboard Preview
-
-<p align="center">
-<img src="dashboard.png" width="100%" alt="Dashboard Preview">
-</p>
-
----
-
 # ✨ Features
 
 - 📈 Transaction Trend Analysis
